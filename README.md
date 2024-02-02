@@ -2,7 +2,7 @@
 
 **REGULATION** - a rule or directive made and maintained by an authority.
 
-### European Union :flag\_eu:  CE
+### European Union :flag_eu:  CE
 
 The European Union has regulations which dictate the movement of goods within its markets.&#x20;
 
@@ -17,7 +17,7 @@ Is repealed by...
 The EU **MDR** introduces new rules and regulations and changes to previous the previous directive (it repeals it).\
 The EU **MDD** is now outdated, however in some circumstances it may still be relevant.
 
-### United Kingdom :flag\_gb: UKCA
+### United Kingdom :flag_gb: UKCA
 
 The United Kingdom has regulations which dictate the movement of goods within its markets.&#x20;
 
